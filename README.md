@@ -1,6 +1,6 @@
 # Bad-Apple-Console
 
-在 Windows 的控制台中通过直接点像素来播放 Bad Apple 。
+在 Windows 的控制台中通过 GDI 直接内存点像素来播放 Bad Apple 。
 
 使用的是 `320 x 240, 60 fps` 的源。
 
